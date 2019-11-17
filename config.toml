@@ -14,7 +14,7 @@ pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
 [params]
-    author = "Ryan Gentzler"
+    author = "Ryan C. Gentzler"
     description = "Ryan Gentzler's personal blog"
     keywords = "blog,developer,personal"
     info = "Justice researcher and R user"
