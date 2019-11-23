@@ -17,7 +17,7 @@ pygmentscodefencesguesssyntax = true
     author = "Ryan Gentzler"
     description = "Ryan Gentzler's personal blog"
     keywords = "blog,developer,personal"
-    info = "Justice researcher and R user"
+    info = "R for justice transparency"
     avatarurl = "images/rg-pic.jpg"
 
     dateformat = "January 2, 2006"
