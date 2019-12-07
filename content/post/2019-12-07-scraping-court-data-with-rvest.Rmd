@@ -1,0 +1,11 @@
+---
+title: Scraping court data with rvest
+author: Ryan Gentzler
+date: '2019-12-07'
+slug: scraping-court-data-with-rvest
+categories: []
+tags: []
+description: ''
+externalLink: ''
+series: []
+---
